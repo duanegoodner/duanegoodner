@@ -1,64 +1,30 @@
-# 👋 Hi, I'm Duane  
-
-### 🚀 Software Developer | [Your Specialization or Role]  
-📍 [Your Location (optional)] | 💼 [Current Job or Open to Opportunities]  
-
----
 
 
+## Featured Projects  
 
-## 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+### [srepkg](https://github.com/duanegoodner/srepkg)
+Wraps a Python package with an isolation layer that enforces installation in an isolated virtual environment while still providing access to the original package's command-line interface in an external environment.
+### [icu-deep-learning](https://github.com/duanegoodner/icu-deep-learning)
+Long Short-Term Memory (LSTM) time series modeling of intensive care unit (ICU) patient lab and vital sign data to predict patient outcomes. Includes exploration of model stability with adversarial attacks.
+### [xiangqigame](https://github.com/duanegoodner/xiangqigame)
+AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite.
+### [smallsh](https://github.com/duanegoodner/smallsh)
+A small Linux shell.
+### [lowlevel-io-meancalc](https://github.com/duanegoodner/lowlevel_io_meancalc)
+Low level IO and simple arithmetic in Assembly Language.
+### [pygetfacl](https://github.com/duanegoodner/pygetfacl)
+A Python wrapper for the Linux getfacl command that converts Access Control List (ACL) information into programmer-friendly Python objects..
+### [btrfs-restic](https://github.com/duanegoodner/btrfs-restic)
+Takes snapshots of BTRFS sub-volumes, then sends snapshotted data to a remote Restic repository. Does not require BTRFS on the remote.
+### [docker-postgres-mimiciii](https://github.com/duanegoodner/docker-postgres-mimiciii)
+Streamlines the use of a PostgreSQL Medical Information Mart for Intensive Care III (MIMIC-III) in a containerized applicaton.
 
----
-
-## 📌 Featured Projects  
-
-### 🛠 [Project Name](https://github.com/your-username/project-repo)  
-**Description:** A short description of the project.  
-**Tech Used:** Python, Flask, PostgreSQL  
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/project-repo?style=social)  
-
----
-
-### 🛠 [Project Name](https://github.com/your-username/project-repo)  
-**Description:** Another cool project to showcase.  
-**Tech Used:** React, Node.js, MongoDB  
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/project-repo?style=social)  
-
----
-
-<!-- ## 📊 GitHub Stats   -->
-
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=duanegoodner&show_icons=true&theme=tokyonight)   -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duanegoodner&layout=compact&theme=tokyonight)  
-
---- -->
-
-### 🤝 Open to Collaborations!  
-I'm always open to interesting projects, freelance work, and open-source contributions. Feel free to reach out!  
-
----
-
-⭐️ _Inspired by the awesome dev community_  
+<!-- ### petsearcher:
+### gas-sim-hpc:
+### datavis_sat_1992:
+### cs340-project-backend:
+### nypl_menus:
+### stat420-final-project: -->
 
 
-<!--
-**duanegoodner/duanegoodner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
