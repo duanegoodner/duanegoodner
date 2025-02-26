@@ -9,7 +9,7 @@
 <br>*Python, PyTorch, Optuna, PostgreSQL, Docker, Tensorboard*
 
 - [**xiangqigame**](https://github.com/duanegoodner/xiangqigame) -- AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite.
-*C++, CMake, GoogleTest, Python, Pytest, Matplotlib, GitHub Actions, Doxygen*
+<br>*C++, CMake, GoogleTest, Python, Pytest, Matplotlib, GitHub Actions, Doxygen*
 
 - [**smallsh**](https://github.com/duanegoodner/smallsh) -- A small Linux shell.
 <br>*C*
@@ -18,7 +18,7 @@
 <br>*Assembly*
 
 - [**pygetfacl**](https://github.com/duanegoodner/pygetfacl) -- A Python wrapper for the Linux getfacl command that converts Access Control List (ACL) information into programmer-friendly Python objects.
-*Python*
+<br>*Python*
 
 - [**btrfs-restic**](https://github.com/duanegoodner/btrfs-restic) -- Takes snapshots of BTRFS sub-volumes, then sends snapshotted data to a remote Restic repository. Does not require BTRFS on the remote.
 <br>*Shell, Restic*
