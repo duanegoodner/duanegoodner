@@ -4,7 +4,7 @@
 
 [**srepkg**](https://github.com/duanegoodner/srepkg)  
 Wraps a Python package with an isolation layer that enforces installation in an isolated virtual environment while still providing access to the original package's command-line interface in an external environment.  
-<svg width="10" height="10"><circle cx="4" cy="4" r="4" fill="#3572A5" /></svg> Python
+![Python](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/svg/python-dot.svg) Python
 
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
