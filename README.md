@@ -6,15 +6,17 @@
 Wraps a Python package with an isolation layer that enforces installation in an isolated virtual environment while still providing access to the original package's command-line interface in an external environment.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
-
+[**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
+AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite.  
+![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![PyTorch](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/pytorch-dot.svg) PyTorch
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
 Long Short-Term Memory (LSTM) time series modeling of intensive care unit (ICU) patient lab and vital sign data to predict patient outcomes. Includes exploration of model stability with adversarial attacks.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL
 
-[**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
-AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite.  
-![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![PyTorch](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/pytorch-dot.svg) PyTorch
+[**polymorphism-compare**](https://github.com/duanegoodner/polymorphism-compare)  
+Benchmarking Runtime vs Compile-Time Polymorphism for compute functions in C++.  
+![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++
 
 [**smallsh**](https://github.com/duanegoodner/smallsh)  
 A small Linux shell.  
