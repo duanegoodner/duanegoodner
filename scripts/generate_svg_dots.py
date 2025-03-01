@@ -19,7 +19,7 @@ output_dir.mkdir(parents=True, exist_ok=True)
 
 # SVG template for a small circle
 svg_template = """<svg width="10" height="10" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="5" cy="5" r="5" fill="{color}" />
+  <circle cx="4" cy="4" r="4" fill="{color}" />
 </svg>"""
 
 # Generate SVG files
