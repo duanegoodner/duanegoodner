@@ -10,7 +10,8 @@ language_colors = {
     "shell": "#89e051",
     "docker": "#0db7ed",
     "postgresql": "#336791",
-    "pytorch": "#EE4C2C"
+    "pytorch": "#EE4C2C",
+    "sql": "DA5B0B"
 }
 
 # Directory to store the SVG files
