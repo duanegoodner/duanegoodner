@@ -4,21 +4,20 @@
 
 [**srepkg**](https://github.com/duanegoodner/srepkg)  
 Wraps a Python package with an isolation layer that enforces installation in an isolated virtual environment while still providing access to the original package's command-line interface in an external environment.  
-<img src="https://via.placeholder.com/10/3572A5/000000?text=+" width="10" height="10"> Python
+<svg width="10" height="10"><circle cx="4" cy="4" r="4" fill="#3572A5" /></svg> Python
 
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
 Long Short-Term Memory (LSTM) time series modeling of intensive care unit (ICU) patient lab and vital sign data to predict patient outcomes. Includes exploration of model stability with adversarial attacks.  
-<span style="color:#3572A5">●</span> Python&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#DA5B0B">●</span> SQL 
+<svg width="10" height="10"><circle cx="4" cy="4" r="4" fill="#3572A5" /></svg> Python&nbsp;&nbsp;&nbsp;&nbsp;<svg width="10" height="10"><circle cx="4" cy="4" r="4" fill="#DA5B0B" /></svg> SQL
 
 [**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
-AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite. 
-<br><img src="https://via.placeholder.com/10/f34b7d/000000?text=+" width="10" height="10"> C++   
-<span style="color:#f34b7d">●</span> C++&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#3572A5">●</span> Python
+AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite.  
+<svg width="10" height="10"><circle cx="4" cy="4" r="4" fill="#f34b7d" /></svg> C++&nbsp;&nbsp;&nbsp;&nbsp;<svg width="10" height="10"><circle cx="4" cy="4" r="4" fill="#3572A5" /></svg> Python
 
 [**smallsh**](https://github.com/duanegoodner/smallsh)  
 A small Linux shell.  
-<span style="color:#555555">●</span> C
+<svg width="10" height="10"><circle cx="4" cy="4" r="4" fill="#555555" /></svg> C
 
 [**lowlevel-io-meancalc**](https://github.com/duanegoodner/lowlevel_io_meancalc)  
 Low level IO and simple arithmetic in Assembly Language.  
