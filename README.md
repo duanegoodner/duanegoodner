@@ -10,9 +10,7 @@ Wraps a Python package with an isolation layer that enforces installation in an 
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
 Long Short-Term Memory (LSTM) time series modeling of intensive care unit (ICU) patient lab and vital sign data to predict patient outcomes. Includes exploration of model stability with adversarial attacks.  
-![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
-
-![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL
+![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL
 
 [**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
 AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite.  
