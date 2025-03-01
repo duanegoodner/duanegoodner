@@ -4,14 +4,16 @@
 
 [**srepkg**](https://github.com/duanegoodner/srepkg)  
 Wraps a Python package with an isolation layer that enforces installation in an isolated virtual environment while still providing access to the original package's command-line interface in an external environment.  
-<span style="color:#3572A5">●</span> Python
+<img src="https://via.placeholder.com/10/3572A5/000000?text=+" width="10" height="10"> Python
+
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
 Long Short-Term Memory (LSTM) time series modeling of intensive care unit (ICU) patient lab and vital sign data to predict patient outcomes. Includes exploration of model stability with adversarial attacks.  
 <span style="color:#3572A5">●</span> Python&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#DA5B0B">●</span> SQL 
 
 [**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
-AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite.  
+AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite. 
+<br><img src="https://via.placeholder.com/10/f34b7d/000000?text=+" width="10" height="10"> C++   
 <span style="color:#f34b7d">●</span> C++&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#3572A5">●</span> Python
 
 [**smallsh**](https://github.com/duanegoodner/smallsh)  
