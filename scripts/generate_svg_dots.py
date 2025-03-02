@@ -13,9 +13,9 @@ language_colors = {
     "pytorch": "#EE4C2C",
     "sql": "#DA5B0B",
     "dart": "#0175C2",
-    "flutternavy": "#042B59",
-    "flutterblue": "0553B1",
-    "fluttersky": "027DFD"
+    "flutternavy": "#0D47A1",
+    "flutterblue": "1976D2",
+    "fluttersky": "2196F3"
 }
 
 # Directory to store the SVG files
