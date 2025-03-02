@@ -26,6 +26,10 @@ A small Linux shell.
 Low level IO and simple arithmetic in Assembly Language.  
 ![Assembly](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/assembly-dot.svg) Assembly
 
+[**pet-matcher**](https://github.com/duanegoodner/pet-matcher)  
+A cross-platform (iOS & Android) mobile app to match animal-loving people with animals in need of homes.  
+![Dart](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/dart-dot.svg) Dart&nbsp;&nbsp;&nbsp;&nbsp;![Flutter](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/fluorescentblue-dot.svg) Flutter
+
 [**pygetfacl**](https://github.com/duanegoodner/pygetfacl)  
 A Python wrapper for the Linux getfacl command that converts Access Control List (ACL) information into programmer-friendly Python objects.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
@@ -34,9 +38,6 @@ A Python wrapper for the Linux getfacl command that converts Access Control List
 Takes snapshots of BTRFS sub-volumes, then sends snapshotted data to a remote Restic repository. Does not require BTRFS on the remote.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell -->
 
-[**pet-matcher**](https://github.com/duanegoodner/pet-matcher)  
-A cross-platfomr (iOS & Android) mobile app to match animal-loving people with animals in need of homes.  
-![Dart](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/dart-dot.svg) Dart&nbsp;&nbsp;&nbsp;&nbsp;![Flutter](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/fluorescentblue-dot.svg) Flutter
 
 <!-- [**docker-postgres-mimiciii**](https://github.com/duanegoodner/docker-postgres-mimiciii)  
 Streamlines the use of a PostgreSQL Medical Information Mart for Intensive Care III (MIMIC-III) in a containerized applicaton.  
