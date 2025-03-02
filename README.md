@@ -34,9 +34,9 @@ A Python wrapper for the Linux getfacl command that converts Access Control List
 Takes snapshots of BTRFS sub-volumes, then sends snapshotted data to a remote Restic repository. Does not require BTRFS on the remote.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell
 
-[**docker-postgres-mimiciii**](https://github.com/duanegoodner/docker-postgres-mimiciii)  
+<!-- [**docker-postgres-mimiciii**](https://github.com/duanegoodner/docker-postgres-mimiciii)  
 Streamlines the use of a PostgreSQL Medical Information Mart for Intensive Care III (MIMIC-III) in a containerized applicaton.  
-![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell
+![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell -->
 
 <!-- ### petsearcher:
 ### gas-sim-hpc:
