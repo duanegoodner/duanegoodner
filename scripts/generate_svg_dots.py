@@ -11,7 +11,11 @@ language_colors = {
     "docker": "#0db7ed",
     "postgresql": "#336791",
     "pytorch": "#EE4C2C",
-    "sql": "#DA5B0B"
+    "sql": "#DA5B0B",
+    "dart": "#0175C2",
+    "flutternavy": "#042B59",
+    "flutterblue": "0553B1",
+    "fluttersky": "027DFD"
 }
 
 # Directory to store the SVG files
