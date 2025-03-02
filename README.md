@@ -36,7 +36,7 @@ Takes snapshots of BTRFS sub-volumes, then sends snapshotted data to a remote Re
 
 [**pet-matcher**](https://github.com/duanegoodner/pet-matcher)  
 A cross-platfomr (iOS & Android) mobile app to match animal-loving people with animals in need of homes.  
-![Dart](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/dart-dot.svg) Dart&nbsp;&nbsp;&nbsp;&nbsp;![Flutter](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/brightcyanblue-dot.svg) Flutter
+![Dart](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/dart-dot.svg) Dart&nbsp;&nbsp;&nbsp;&nbsp;![Flutter](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/fluorescentblue-dot.svg) Flutter
 
 <!-- [**docker-postgres-mimiciii**](https://github.com/duanegoodner/docker-postgres-mimiciii)  
 Streamlines the use of a PostgreSQL Medical Information Mart for Intensive Care III (MIMIC-III) in a containerized applicaton.  
