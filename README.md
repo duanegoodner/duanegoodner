@@ -30,9 +30,9 @@ Low level IO and simple arithmetic in Assembly Language.
 A Python wrapper for the Linux getfacl command that converts Access Control List (ACL) information into programmer-friendly Python objects.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
-[**btrfs-restic**](https://github.com/duanegoodner/btrfs-restic)  
+<!-- [**btrfs-restic**](https://github.com/duanegoodner/btrfs-restic)  
 Takes snapshots of BTRFS sub-volumes, then sends snapshotted data to a remote Restic repository. Does not require BTRFS on the remote.  
-![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell
+![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell -->
 
 [**pet-matcher**](https://github.com/duanegoodner/pet-matcher)  
 A cross-platfomr (iOS & Android) mobile app to match animal-loving people with animals in need of homes.  
