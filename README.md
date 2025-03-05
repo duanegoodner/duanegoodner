@@ -1,3 +1,8 @@
+## About Me
+
+I approach software engineering with an emphasis on clean architecture, test-driven development, and loosely-coupled systems that enable adaptability and scaling. Prior to becoming a software engineer, I worked for more than a decade in semiconductor R&D, where I developed advanced materials and process technologies for high-performance DRAM and NAND Flash memory. That background has shaped how I think about system design.
+
+In both hardware and software, I find clarity, modularity, and long-term maintainability essential to building effective solutions. I enjoy exploring the intersection of efficiency and expressiveness in code, and I appreciate how well-designed software can precisely define relationships among concepts, capturing even the most subtle connections with remarkable accuracy.
 
 
 ## Featured Projects  
