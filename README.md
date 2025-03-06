@@ -1,8 +1,8 @@
 ## About Me
 
-My approach to software emphasizes clean architecture, test-driven development, and loosely-coupled systems that enable adaptability and scaling. Prior to becoming a software engineer, I worked for more than a decade in semiconductor R&D, where I developed advanced materials and process technologies for high-performance DRAM and NAND Flash memory.
+My approach to software emphasizes clean architecture and test-driven development. Prior to becoming a software engineer, I worked for more than a decade in semiconductor R&D, where I developed advanced materials and process technologies for high-performance DRAM and NAND Flash memory and guided their scale-up across global production facilities.
 
-In both hardware and software, I find clarity, modularity, and long-term maintainability essential to building effective solutions. I enjoy exploring the intersection of efficiency and expressiveness in code, and I appreciate how well-designed software can precisely define relationships among concepts, capturing even the most subtle connections with remarkable accuracy.
+In both hardware and software, I find modularity and loosely-coupled systems essential to building effective, maintainable solutions. I enjoy exploring the intersection of efficiency and expressiveness in code, and I appreciate how well-designed software can precisely define relationships among concepts, capturing even the most subtle connections with remarkable accuracy.
 
 
 ## Featured Projects  
