@@ -1,26 +1,26 @@
 ## About Me
 
-My approach to software emphasizes clean architecture and test-driven development. Prior to becoming a software engineer, I worked for more than a decade in semiconductor R&D, where I developed advanced materials and process technologies for high-performance DRAM and NAND Flash memory and guided their scale-up across global production facilities.
+My approach to software emphasizes clean architecture and test-driven development. Before transitioning to software engineering, I spent over a decade in semiconductor R&D, developing advanced materials and process technologies for high-performance DRAM and NAND Flash memory, while guiding their scale-up across global production facilities.
 
-In both hardware and software, I find modularity and loosely-coupled systems essential to building effective, maintainable solutions. I enjoy exploring the intersection of efficiency and expressiveness in code, and I appreciate how well-designed software can precisely define relationships among concepts, capturing even the most subtle connections with remarkable accuracy.
+In both hardware and software, I value modularity and loosely-coupled systems as the foundation of effective, maintainable solutions. I enjoy exploring the intersection of efficiency and expressiveness in code, and I appreciate how well-designed software can precisely define relationships among concepts, capturing even the most subtle connections with remarkable accuracy.
 
 
-## Featured Projects  
-
-[**srepkg**](https://github.com/duanegoodner/srepkg)  
-Wraps a Python package with an isolation layer that enforces installation in an isolated virtual environment while still providing access to the original package's command-line interface in an external environment.  
-![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
-
-[**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
-AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite.  
-![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![PyTorch](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/pytorch-dot.svg) PyTorch
+## Featured Projects
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
-Long Short-Term Memory (LSTM) time series modeling of intensive care unit (ICU) patient lab and vital sign data to predict patient outcomes. Includes exploration of model stability with adversarial attacks.  
+Long Short-Term Memory (LSTM) time series modeling of intensive care unit (ICU) patient lab and vital sign data to predict patient outcomes. Exhibits 90% faster data pipeline and 60% better predictive performance compared to prior studies of the same dataset. Includes a custom PyTorch module for adversarial attacks, enabling batch-mode evaluation of model vulnerabilities.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL
 
+[**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
+AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer supporting a command-line interface and data analysis suite. Implements a plug-in architecture with compile-time polymorphism for performance-critical components, achieving a 10x speedup over runtime polymorphism.  
+![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![PyTorch](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/pytorch-dot.svg) PyTorch
+
+[**srepkg**](https://github.com/duanegoodner/srepkg)  
+Wraps CLI-enabled Python packages with custom build system files, ensuring installation in isolated virtual environments and allowing package distributors to manage dependency conflicts. Available on [PyPI](https://pypi.org/project/srepkg/).    
+![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
+
 [**polymorphism-compare**](https://github.com/duanegoodner/polymorphism-compare)  
-Benchmarking Runtime vs Compile-Time Polymorphism for compute functions in C++.  
+Benchmarks Runtime vs. Compile-Time Polymorphism for compute functions in C++.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++
 
 [**smallsh**](https://github.com/duanegoodner/smallsh)  
