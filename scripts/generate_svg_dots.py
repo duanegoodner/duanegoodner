@@ -18,7 +18,8 @@ language_colors = {
     "fluttersky": "#007ACC",
     "trueazure": "#0088CC",
     "brightcyanblue": "#0095DD",
-    "fluorescentblue": "#00A3E0"
+    "fluorescentblue": "#00A3E0",
+    "firestore": "#FFCA28"
 
 
 }
