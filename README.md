@@ -16,7 +16,7 @@ AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python outer layer 
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![PyTorch](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/pytorch-dot.svg) PyTorch
 
 [**srepkg**](https://github.com/duanegoodner/srepkg)  
-Wraps CLI-enabled Python packages with custom build system files, ensuring installation in isolated virtual environments and allowing package distributors to manage dependency conflicts. Available on [PyPI](https://pypi.org/project/srepkg/).    
+Wraps CLI-enabled Python packages with custom build system files, ensuring installation in isolated virtual environments and allowing package distributors to manage dependency conflicts. Includes an automated test suite with 99% code coverage to safeguard reliability. Available on [PyPI](https://pypi.org/project/srepkg/).    
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
 [**polymorphism-compare**](https://github.com/duanegoodner/polymorphism-compare)  
