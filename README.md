@@ -11,7 +11,7 @@ Benchmarking suite for comparing runtime polymorphism (virtual functions) vs. co
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
-Long Short-Term Memory (LSTM) time series modeling of intensive care unit (ICU) patient lab and vital sign data to predict patient outcomes. Exhibits 90% faster data pipeline and 60% better predictive performance compared to prior studies of the same dataset. Includes a custom PyTorch module for adversarial attacks, enabling batch-mode evaluation of model vulnerabilities.  
+AI model that uses intensive care unit (ICU) lab and vital sign data to predict patient outcomes. Exhibits 90% faster data pipeline and 60% better predictive performance compared to prior studies of the same dataset. Includes a custom PyTorch module for adversarial attacks, enabling batch-mode evaluation of model vulnerabilities.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL
 
 [**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
