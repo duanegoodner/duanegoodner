@@ -7,7 +7,7 @@ Since transitioning into software, I’ve built projects that span AI/ML, system
 
 ## Featured Projects
 [**polymorphism-compare**](https://github.com/duanegoodner/polymorphism-compare)  
-Benchmarking suite for comparing runtime polymorphism (virtual functions) vs. compile-time alternatives (CRTP, C++ Concepts) across multiple compute functions and compiler optimization levels. With a complex compute function and max optimization, compile-time options run 17x faster with 100,000x fewer memory accesses. Inlining heuristics can drive a significant performance gap between compile-time options, with CRTP outperforming C++ Concepts by 10x at the mid-range optimization level preferred in production environments.  
+Benchmarking suite comparing runtime polymorphism (virtual functions) with compile-time alternatives (CRTP, C++ Concepts) across multiple compute functions and optimization levels. Shows faster execution and lower memory access for compile-time options at max optimization, and reveals a significant CRTP advantage over C++ Concepts at the mid-range level commonly used in production.environments.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
