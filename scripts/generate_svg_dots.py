@@ -19,9 +19,8 @@ language_colors = {
     "trueazure": "#0088CC",
     "brightcyanblue": "#0095DD",
     "fluorescentblue": "#00A3E0",
-    "firestore": "#FFCA28"
-
-
+    "firestore": "#FFCA28",
+    "r": "#198CE7",
 }
 
 # Directory to store the SVG files

@@ -22,6 +22,11 @@ AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python wrapper supp
 Wraps CLI-enabled Python packages with custom build system files, ensuring installation in isolated virtual environments and allowing package distributors to safeguard against downstream dependency conflicts. Includes an automated test suite with 99% code coverage to safeguard reliability. Available on [PyPI](https://pypi.org/project/srepkg/).    
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
+[**ml-modeling-suite-r**](https://github.com/duanegoodner/ml-modeling-suite-r)  
+A curated portfolio of 8 machine learning projects implemented in R, covering supervised learning (GLMs, KNN, trees), unsupervised methods (clustering, matrix factorization), time series forecasting, and recommendation systems (SVD, UBCF, genre-based). Emphasis on reproducible workflows, cross-validation, and from-scratch algorithm design (e.g., coordinate descent for lasso, EM for GMMs and HMMs). Each project includes a public summary; code access available upon request.  
+![R](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/r-dot.svg) R
+
+
 [**smallsh**](https://github.com/duanegoodner/smallsh)  
 A small Linux shell.  
 ![C](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/c-dot.svg) C
