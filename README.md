@@ -23,8 +23,9 @@ Wraps CLI-enabled Python packages with custom build system files, ensuring insta
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
 [**ml-modeling-suite-r**](https://github.com/duanegoodner/ml-modeling-suite-r)  
-A curated portfolio of 8 machine learning projects implemented in R, covering supervised learning (GLMs, KNN, trees), unsupervised methods (clustering, matrix factorization), time series forecasting, and recommendation systems (SVD, UBCF, genre-based). Emphasis on reproducible workflows, cross-validation, and from-scratch algorithm design (e.g., coordinate descent for lasso, EM for GMMs and HMMs). Each project includes a public summary; code access available upon request.  
+A collection of 8 machine learning projects implemented in R, covering a diverse set of modeling approaches and datasets. Emphasis on reproducible workflows, cross-validation, and a mix of from-scratch algorithm implementation and applied use of existing tools and libraries.  
 ![R](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/r-dot.svg) R
+
 
 
 [**smallsh**](https://github.com/duanegoodner/smallsh)  
