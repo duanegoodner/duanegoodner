@@ -21,9 +21,9 @@ language_colors = {
     "fluorescentblue": "#00A3E0",
     "firestore": "#FFCA28",
     "r": "#198CE7",
-    "mpi": "0072C6",
-    "openmp": "E4B400",
-    "slurm": "1E7145"
+    "mpi": "#0072C6",
+    "openmp": "#E4B400",
+    "slurm": "#1E7145"
 }
 
 # Directory to store the SVG files
