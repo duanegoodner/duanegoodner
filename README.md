@@ -13,6 +13,11 @@ Now focused on system-level software and AI/ML workflows, I build tools and mode
 Benchmarking suite comparing runtime polymorphism (virtual functions) with compile-time alternatives (CRTP, C++ Concepts) across multiple compute functions and optimization levels. Shows faster execution and lower memory access for compile-time options at max optimization, and reveals a significant CRTP advantage over C++ Concepts at the mid-range optimization commonly used in production.environments.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++
 
+[**hpc-collection**](https://github.com/duanegoodner/hpc-collection)  
+A set of high-performance computing (HPC) projects demonstrating memory-bound and compute-intensive workload optimization across distributed systems. Includes tiled matrix operations, Gauss-Seidel synchronization, MPI-based gas simulation, and a hybrid MPI/OpenMP histogram sort. Highlights cache locality tuning, inter-process communication strategies and scaling analysis on a production HPC cluster.  
+![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![MPI](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/mpi-dot.svg) MPI&nbsp;&nbsp;&nbsp;&nbsp;![OpenMP](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/openmp-dot.svg) OpenMP&nbsp;&nbsp;&nbsp;&nbsp;![SLURM](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/slurm-dot.svg) SLURM
+
+
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
 AI model that uses intensive care unit (ICU) lab and vital sign data to predict patient outcomes. Exhibits 90% faster data pipeline and 60% better predictive performance compared to prior studies of the same dataset. Includes a custom PyTorch module for adversarial attacks, enabling batch-mode evaluation of model vulnerabilities.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL
