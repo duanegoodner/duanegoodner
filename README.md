@@ -20,7 +20,7 @@ A set of high-performance computing (HPC) projects demonstrating memory-bound an
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
 AI model that uses intensive care unit (ICU) lab and vital sign data to predict patient outcomes. Exhibits 90% faster data pipeline and 60% better predictive performance compared to prior studies of the same dataset. Includes a custom PyTorch module for adversarial attacks, enabling batch-mode evaluation of model vulnerabilities.  
-![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL
+![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL&nbsp;&nbsp;&nbsp;&nbsp;![Docker](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/docker-dot.svg) Docker
 
 [**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
 AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python wrapper supporting a command-line interface and data analysis suite. Implements a plugin-style architecture with compile-time polymorphism for performance-critical components, achieving a 10x speedup over runtime polymorphism.  
