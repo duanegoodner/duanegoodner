@@ -1,8 +1,11 @@
+
 ## About Me
 
-I’m a former semiconductor R&D engineer (10+ years in DRAM and NAND Flash at Micron), now focused on systems-oriented software, architecture and AI/ML. My work developing and scaling advanced memory technologies sparked a lasting interest in the interaction between hardware, performance and software design.
+I’m a systems-oriented engineer with a background spanning materials science, semiconductor R&D and software — with a deep interest in how all layers of the compute stack interact.
 
-Since transitioning into software, I’ve built projects that span AI/ML, systems programming, automation and performance benchmarking. I value clean architecture, modularity and performance-aware design — whether working close to hardware or designing high-level software systems.
+I began my career studying semiconductor interfaces at the atomic scale, then spent over a decade at Micron Technology developing and scaling novel materials and manufacturing processes for high-performance DRAM and NAND Flash memory.
+
+Now focused on system-level software and AI/ML workflows, I build tools and models with an emphasis on modularity, performance and interface-aware design.
 
 
 ## Featured Projects
@@ -25,7 +28,6 @@ Wraps CLI-enabled Python packages with custom build system files, ensuring insta
 [**ml-modeling-suite-r**](https://github.com/duanegoodner/ml-modeling-suite-r)  
 A collection of 8 machine learning projects implemented in R, covering a diverse set of modeling approaches and datasets. Emphasis on reproducible workflows, cross-validation, and a mix of from-scratch algorithm implementation and applied use of existing tools and libraries.  
 ![R](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/r-dot.svg) R
-
 
 
 [**smallsh**](https://github.com/duanegoodner/smallsh)  
