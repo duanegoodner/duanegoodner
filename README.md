@@ -5,7 +5,7 @@ I’m a systems-oriented engineer with a background spanning materials science, 
 
 I began my career studying semiconductor interfaces at the atomic scale, then spent over a decade at Micron Technology developing and scaling novel materials and manufacturing processes for high-performance DRAM and NAND Flash memory.
 
-Now focused on system-level software and AI/ML workflows, I build tools and models with an emphasis on modularity, performance and interface-aware design.
+I now focus on system-level software and AI/ML workflows, and I build tools and models that emphasize modularity, performance, and interface-aware design.
 
 
 ## Featured Projects
@@ -16,7 +16,6 @@ Benchmarking suite comparing runtime polymorphism (virtual functions) with compi
 [**hpc-collection**](https://github.com/duanegoodner/hpc-collection)  
 A set of high-performance computing (HPC) projects demonstrating memory-bound and compute-intensive workload optimization across distributed systems. Includes tiled matrix operations, Gauss-Seidel synchronization, MPI-based gas simulation, and a hybrid MPI/OpenMP histogram sort. Highlights cache locality tuning, inter-process communication strategies and scaling analysis on a production HPC cluster.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![MPI](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/mpi-dot.svg) MPI&nbsp;&nbsp;&nbsp;&nbsp;![OpenMP](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/openmp-dot.svg) OpenMP&nbsp;&nbsp;&nbsp;&nbsp;![SLURM](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/slurm-dot.svg) SLURM
-
 
 [**icu-deep-learning**](https://github.com/duanegoodner/icu-deep-learning)  
 AI model that uses intensive care unit (ICU) lab and vital sign data to predict patient outcomes. Exhibits 90% faster data pipeline and 60% better predictive performance compared to prior studies of the same dataset. Includes a custom PyTorch module for adversarial attacks, enabling batch-mode evaluation of model vulnerabilities.  
@@ -29,6 +28,10 @@ AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python wrapper supp
 [**srepkg**](https://github.com/duanegoodner/srepkg)  
 Wraps CLI-enabled Python packages with custom build system files, ensuring installation in isolated virtual environments and allowing package distributors to safeguard against downstream dependency conflicts. Includes an automated test suite with 99% code coverage to safeguard reliability. Available on [PyPI](https://pypi.org/project/srepkg/).    
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
+
+[**resticlvm**](https://github.com/duanegoodner/resticlvm)  
+Configuration-driven command line tool for atomic backups using LVM snapshots and Restic. Manages snapshot Installable via pip with minimal dependencies.  
+![Shell](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
 [**ml-modeling-suite-r**](https://github.com/duanegoodner/ml-modeling-suite-r)  
 A collection of machine learning projects implemented in R, covering a diverse set of modeling approaches and datasets. Emphasis on reproducible workflows, cross-validation, and a mix of from-scratch algorithm implementation and applied use of existing tools and libraries.  
