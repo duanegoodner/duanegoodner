@@ -30,8 +30,8 @@ Wraps CLI-enabled Python packages with custom build system files, ensuring insta
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
 [**resticlvm**](https://github.com/duanegoodner/resticlvm)  
-Configuration-driven CLI tool for atomic, incremental Linux backups using LVM snapshots and Restic. Follows a “Bash executes, Python orchestrates” model. Installable via pip and uses only the Python standard library — no external dependencies.
-![Shell](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
+Configuration-driven CLI tool for atomic, incremental Linux backups using LVM snapshots and Restic. Follows a “Bash executes, Python orchestrates” model. Installable via pip and uses only the Python standard library — no external dependencies.  
+![Shell](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg)Shell&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
 [**ml-modeling-suite-r**](https://github.com/duanegoodner/ml-modeling-suite-r)  
 A collection of machine learning projects implemented in R, covering a diverse set of modeling approaches and datasets. Emphasis on reproducible workflows, cross-validation, and a mix of from-scratch algorithm implementation and applied use of existing tools and libraries.  
