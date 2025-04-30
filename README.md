@@ -40,8 +40,8 @@ A collection of machine learning projects implemented in R, covering a diverse s
 
 
 [**smallsh**](https://github.com/duanegoodner/smallsh)  
-A small Linux shell.  
-![C](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/c-dot.svg) C
+A minimalist Bash-like shell written in C, with built-in commands (`cd`, `exit`, `status`) and full support for executing other programs as subprocesses. Features include I/O redirection, background job control, custom signal handling and a foreground-only mode triggered by `SIGTSTP`.  
+![C](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/c-dot.svg) C 
 
 [**lowlevel-io-meancalc**](https://github.com/duanegoodner/lowlevel_io_meancalc)  
 Low level IO and simple arithmetic in Assembly Language.  
