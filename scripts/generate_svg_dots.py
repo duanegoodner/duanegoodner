@@ -23,7 +23,8 @@ language_colors = {
     "r": "#198CE7",
     "mpi": "#0072C6",
     "openmp": "#E4B400",
-    "slurm": "#1E7145"
+    "slurm": "#1E7145",
+    "cuda": "#76B900"
 }
 
 # Directory to store the SVG files

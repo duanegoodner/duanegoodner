@@ -5,10 +5,15 @@ I’m a systems-oriented engineer with a background spanning materials science, 
 
 I began my career studying semiconductor interfaces at the atomic scale, then spent over a decade at Micron Technology developing and scaling novel materials and manufacturing processes for high-performance DRAM and NAND Flash memory.
 
-I now focus on system-level software and AI/ML workflows, and I build tools and models that emphasize modularity, performance, and interface-aware design.
+I now focusing on system-level software and AI/ML workflows, and I build tools and models that emphasize modularity, performance, and interface-aware design.
 
 
 ## Featured Projects
+[**parallel-prefix-engine**](https://github.com/duanegoodner/parallel-prefix-engine)  
+Scalable 2D prefix sum engine using CUDA and MPI backends. Includes a modular CLI, performance-optimized tile and sub-tile execution strategies, and support for debugging via `cuda-gdb` and NVIDIA Nsight inside a GPU-enabled containerized environment. Demonstrates shared-memory GPU parallelism, distributed task coordination, and performance crossover analysis between CPU and GPU backends.  
+![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![CUDA](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cuda-dot.svg) CUDA&nbsp;&nbsp;&nbsp;&nbsp;![MPI](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/mpi-dot.svg) MPI
+
+
 [**polymorphism-compare**](https://github.com/duanegoodner/polymorphism-compare)  
 Benchmarking suite comparing runtime polymorphism (virtual functions) with compile-time alternatives (CRTP, C++ Concepts) across multiple compute functions and optimization levels. Shows faster execution and lower memory access for compile-time options at max optimization, and reveals a significant CRTP advantage over C++ Concepts at the mid-range optimization commonly used in production.environments.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++
