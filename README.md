@@ -10,7 +10,7 @@ Now focusing on system-level software and AI/ML workflows, I build tools and mod
 
 ## Featured Projects
 [**parallel-prefix-engine**](https://github.com/duanegoodner/parallel-prefix-engine)  
-High-performance 2D prefix sum engine with CUDA and MPI backends. CUDA kernels are optimized to maximize shared memory usage and reduce global memory traffic, enabling tile-based parallelism and high-throughput execution at large input scales. Containerized for easy deployment; plugin-style architecture supports drop-in backend extensions. 
+High-performance 2D prefix sum engine with CUDA and MPI backends. CUDA kernels are optimized to maximize shared memory usage and reduce global memory traffic, enabling tile-based parallelism and high-throughput execution at large input scales. Containerized for easy deployment; plugin-style architecture supports drop-in backend extensions.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![CUDA](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cuda-dot.svg) CUDA&nbsp;&nbsp;&nbsp;&nbsp;![MPI](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/mpi-dot.svg) MPI
 
 
