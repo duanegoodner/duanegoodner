@@ -5,7 +5,7 @@ I’m a systems-oriented engineer with a background spanning materials science, 
 
 I began my career studying semiconductor interfaces at the atomic scale, then spent over a decade at Micron Technology developing and scaling novel materials and manufacturing processes for high-performance DRAM and NAND Flash memory.
 
-I now focusing on system-level software and AI/ML workflows, and I build tools and models that emphasize modularity, performance, and interface-aware design.
+Now focusing on system-level software and AI/ML workflows, I build tools and models that emphasize modularity, performance, and interface-aware design.
 
 
 ## Featured Projects
