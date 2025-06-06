@@ -1,11 +1,11 @@
 
 ## About Me
 
-I'm a systems-oriented engineer with a deep curiosity about how abstraction layers interact — from low-level physics to high-level software, and everything in between. My background spans atomic-scale materials science, semiconductor process development, and performance-focused software engineering.
+I'm a systems-oriented engineer with a deep curiosity about how abstraction layers interact, from low-level physics to high-level software and everything in between. My background spans atomic-scale materials science, semiconductor process development, and performance-focused software engineering.
 
-After over a decade at Micron Technlogy developing novel materials and scalable fabrication processes that helped enable multiple generations of high-performance DRAM and NAND Flash memory, I shifted focus to software.
+After over a decade at Micron Technology developing novel materials and scalable fabrication processes that helped enable multiple generations of high-performance DRAM and NAND Flash memory, I shifted focus to software.
 
-Now I work near the software-hardware boundary — building tools and infrastructure that emphasize modularity, performance, and architectural clarity. I thrive in environments where performance bottlenecks aren’t just bugs to fix, but signposts to deeper design opportunities. I'm especially interested in how these principles apply to emerging hardware and next-generation AI systems.
+Now I work near the software-hardware boundary, building tools and infrastructure that emphasize modularity, performance, and architectural clarity. I thrive in environments where performance bottlenecks aren’t just bugs to fix, but signposts to deeper design opportunities. I'm especially interested in how these principles apply to emerging hardware and next-generation AI systems.
 
 
 ## Featured Projects
