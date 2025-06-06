@@ -11,7 +11,6 @@ Now I work near the software-hardware boundary — building tools and infrastruc
 
 > *-- Every abstraction eventually bottoms out in particle physics. I just try to make the layers above it coherent.*
 
-<br>
 
 
 ## Featured Projects
