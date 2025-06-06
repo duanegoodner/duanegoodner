@@ -7,6 +7,11 @@ After over a decade at Micron Technlogy developing novel materials and scalable 
 
 Now I work near the software-hardware boundary — building tools and infrastructure that emphasize modularity, performance, and architectural clarity. I thrive in environments where performance bottlenecks aren’t just bugs to fix, but signposts to deeper design opportunities. I'm especially interested in how these principles apply to emerging hardware and next-generation AI systems.
 
+> *Every abstraction eventually bottoms out in particle physics. I just try to make the layers above it coherent.*
+
+---
+
+
 
 ## Featured Projects
 [**parallel-prefix-engine**](https://github.com/duanegoodner/parallel-prefix-engine)  
