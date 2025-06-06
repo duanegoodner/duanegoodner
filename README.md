@@ -8,11 +8,8 @@ After over a decade at Micron Technlogy developing novel materials and scalable 
 Now I work near the software-hardware boundary — building tools and infrastructure that emphasize modularity, performance, and architectural clarity. I thrive in environments where performance bottlenecks aren’t just bugs to fix, but signposts to deeper design opportunities. I'm especially interested in how these principles apply to emerging hardware and next-generation AI systems.
 
 
-> *-- Every abstraction eventually bottoms out in particle physics. I just try to make the layers above it coherent.*
-
-
-
 ## Featured Projects
+
 [**parallel-prefix-engine**](https://github.com/duanegoodner/parallel-prefix-engine)  
 High-performance 2D prefix sum engine with CUDA and MPI backends. CUDA kernels are optimized to maximize shared memory usage and reduce global memory traffic, enabling tile-based parallelism and high-throughput execution at large input scales. Containerized for easy deployment; plugin-style architecture supports drop-in backend extensions.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![CUDA](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cuda-dot.svg) CUDA&nbsp;&nbsp;&nbsp;&nbsp;![MPI](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/mpi-dot.svg) MPI
