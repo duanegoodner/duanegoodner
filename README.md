@@ -5,7 +5,7 @@ I'm a systems-oriented engineer with a deep curiosity about how abstraction laye
 
 After over a decade at Micron Technology developing novel materials and scalable fabrication processes that helped enable multiple generations of high-performance DRAM and NAND Flash memory, I shifted focus to software.
 
-Now I work near the software-hardware boundary — building tools and infrastructure that emphasize modularity, performance, and architectural clarity. I thrive in environments where performance bottlenecks aren’t just bugs to fix, but signposts to deeper design opportunities. I'm especially interested in how these principles apply to emerging hardware and next-generation AI systems.
+Now I work near the software-hardware boundary — building tools and infrastructure that emphasize modularity, performance, and architectural clarity. I thrive in environments where performance bottlenecks aren’t just bugs to fix, but signposts to deeper design opportunities. I'm especially interested in how these principles play out in emerging hardware and next-generation AI systems.
 
 
 ## Featured Projects
@@ -19,7 +19,7 @@ Fully containerized template for running the Optuna hyperparameter tuning framew
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![Docker](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/docker-dot.svg) Docker
 
 [**dispatch-model-benchmarks**](https://github.com/duanegoodner/dispatch-model-benchmarks)  
-Benchmarking suite comparing runtime polymorphism (virtual functions) with compile-time alternatives (CRTP, C++ Concepts) across multiple compute functions and optimization levels. Shows faster execution and lower memory access for compile-time options at max optimization, and reveals a significant CRTP advantage over C++ Concepts at the mid-range optimization commonly used in production.environments.  
+Benchmarking suite comparing runtime polymorphism (virtual functions) with compile-time alternatives (CRTP, C++ Concepts) across multiple compute functions and optimization levels. Shows faster execution and lower memory access for compile-time options at max optimization, and reveals a significant CRTP advantage over C++ Concepts at the mid-range optimization commonly used in production environments.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++
 
 [**hpc-collection**](https://github.com/duanegoodner/hpc-collection)  
@@ -31,7 +31,7 @@ AI model that uses intensive care unit (ICU) lab and vital sign data to predict 
 ![PyTorch](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/pytorch-dot.svg) PyTorch&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/sql-dot.svg) SQL&nbsp;&nbsp;&nbsp;&nbsp;![Docker](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/docker-dot.svg) Docker
 
 [**xiangqigame**](https://github.com/duanegoodner/xiangqigame)  
-AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python wrapper supporting a command-line interface and data analysis suite. Implements a plugin-style architecture with compile-time polymorphism for performance-critical components, achieving a 10x speedup over runtime polymorphism.  
+AI engine for Xiangqi (Chinese Chess) with a C++ core, and a Python wrapper supporting a command-line interface and data analysis suite. Implements a plugin-style architecture with compile-time polymorphism for performance-critical components, achieving a 10x speedup in decision-making during gameplay.
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python
 
 [**srepkg**](https://github.com/duanegoodner/srepkg)  
