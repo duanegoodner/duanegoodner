@@ -18,7 +18,7 @@ High-performance 2D prefix sum engine with CUDA and MPI backends. CUDA kernels a
 Fully containerized template for running the Optuna hyperparameter tuning framework with PostgreSQL RDB storage — powered by Docker, Conda, and Poetry. Built for reproducibility, GPU support, and secure, scalable experiment tracking. Includes full test coverage and API documentation.  
 ![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![Docker](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/docker-dot.svg) Docker
 
-[**polymorphism-compare**](https://github.com/duanegoodner/polymorphism-compare)  
+[**dispatch-model-benchmarks**](https://github.com/duanegoodner/dispatch-model-benchmarks)  
 Benchmarking suite comparing runtime polymorphism (virtual functions) with compile-time alternatives (CRTP, C++ Concepts) across multiple compute functions and optimization levels. Shows faster execution and lower memory access for compile-time options at max optimization, and reveals a significant CRTP advantage over C++ Concepts at the mid-range optimization commonly used in production.environments.  
 ![C++](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/cpp-dot.svg) C++
 
@@ -45,26 +45,4 @@ Configuration-driven CLI tool for atomic, incremental Linux backups using LVM sn
 [**systems-workshop**](https://github.com/duanegoodner/systems-workshop)  
 A set of tools and demos exploring systems programming and infrastructure. Topics include process and signal management, low-level I/O, access control, environment conversion, and snapshot-based backup automation. Projects are organized as Git submodules for modular exploration and reuse.  
 ![C](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/c-dot.svg) C&nbsp;&nbsp;&nbsp;&nbsp;![Shell](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/shell-dot.svg) Shell&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python&nbsp;&nbsp;&nbsp;&nbsp;![Assembly](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/assembly-dot.svg) Assembly
-
-<!-- [**smallsh**](https://github.com/duanegoodner/smallsh)  
-A minimalist Bash-like shell written in C, with built-in commands (`cd`, `exit`, `status`) and full support for executing other programs as subprocesses. Features include I/O redirection, background job control, custom signal handling and a foreground-only mode triggered by `SIGTSTP`.  
-![C](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/c-dot.svg) C 
-
-[**lowlevel-io-meancalc**](https://github.com/duanegoodner/lowlevel_io_meancalc)  
-Low level IO and simple arithmetic in Assembly Language.  
-![Assembly](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/assembly-dot.svg) Assembly
-
-[**pygetfacl**](https://github.com/duanegoodner/pygetfacl)  
-A Python wrapper for the Linux getfacl command that converts Access Control List (ACL) information into programmer-friendly Python objects.  
-![Python](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/python-dot.svg) Python -->
-
-
-<!-- [**ml-modeling-suite-r**](https://github.com/duanegoodner/ml-modeling-suite-r)  
-A collection of machine learning projects implemented in R, covering a diverse set of modeling approaches and datasets. Emphasis on reproducible workflows, cross-validation, and a mix of from-scratch algorithm implementation and applied use of existing tools and libraries.  
-![R](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/r-dot.svg) R -->
-
-<!-- [**pet-matcher**](https://github.com/duanegoodner/pet-matcher)  
-A cross-platform (iOS & Android) mobile app to match animal-loving people with animals in need of homes.  
-![Dart](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/dart-dot.svg) Dart&nbsp;&nbsp;&nbsp;&nbsp;![Flutter](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/fluorescentblue-dot.svg) Flutter&nbsp;&nbsp;&nbsp;&nbsp;![Firestore](https://github.com/duanegoodner/duanegoodner/raw/main/assets/svg/firestore-dot.svg) Google Firestore -->
-
 
