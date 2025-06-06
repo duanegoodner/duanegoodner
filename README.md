@@ -5,7 +5,7 @@ I'm a systems-oriented engineer with a deep curiosity about how abstraction laye
 
 After over a decade at Micron Technology developing novel materials and scalable fabrication processes that helped enable multiple generations of high-performance DRAM and NAND Flash memory, I shifted focus to software.
 
-Now I work near the software-hardware boundary, building tools and infrastructure that emphasize modularity, performance, and architectural clarity. I thrive in environments where performance bottlenecks aren’t just bugs to fix, but signposts to deeper design opportunities. I'm especially interested in how these principles apply to emerging hardware and next-generation AI systems.
+Now I work near the software-hardware boundary — building tools and infrastructure that emphasize modularity, performance, and architectural clarity. I thrive in environments where performance bottlenecks aren’t just bugs to fix, but signposts to deeper design opportunities. I'm especially interested in how these principles apply to emerging hardware and next-generation AI systems.
 
 
 ## Featured Projects
